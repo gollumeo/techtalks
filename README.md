@@ -8,7 +8,7 @@ I'll translate them later!
 
 - [Tech Talk 1 - Gestion de Projet](#)
 - [Tech Talk 2 - Laravel & MVC](#)
-- [Tech Talk 3 - Tests Unitaires](/tests-unitaires)
+- [Tech Talk 3 - Tests Unitaires](../tests-unitaires)
 - [Tech Talk 4 - Websockets](#) 
 
 ### English Versions
